@@ -1,3 +1,5 @@
+// VSTChat server.cpp open beta
+
 #include "common.hpp"
 #include <fstream>
 #include <map>

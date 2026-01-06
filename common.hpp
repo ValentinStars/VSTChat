@@ -1,3 +1,5 @@
+// VSTChat common.hpp open beta, first openned protocol stable version.
+
 #pragma once
 #include <iostream>
 #include <vector>
