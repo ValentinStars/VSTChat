@@ -31,3 +31,9 @@ compile_commands.json
 .DS_Store
 Thumbs.db
 
+*.key
+*.pem
+*.crt
+*.env
+config.local.*
+*.db
