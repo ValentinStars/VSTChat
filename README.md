@@ -106,7 +106,10 @@ The client handles encryption, decryption, and user interface.
 5.  **Messaging:** All messages are encrypted locally before transmission.
 
 ---
+## Cool Numbers (Maybe)
+[![Stargazers over time](https://starchart.cc/ValentinStars/VSTChat.svg?variant=adaptive)](https://starchart.cc/ValentinStars/VSTChat)
 
+                    
 ## License
 
 Copyright 2026 VSTChat Project
